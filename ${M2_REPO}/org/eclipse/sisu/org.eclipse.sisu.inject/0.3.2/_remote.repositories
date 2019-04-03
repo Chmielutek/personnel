@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 14:56:35 CEST 2019
+org.eclipse.sisu.inject-0.3.2.jar>nexus=
+org.eclipse.sisu.inject-0.3.2.jar>central=
+org.eclipse.sisu.inject-0.3.2.pom>central=
+org.eclipse.sisu.inject-0.3.2.pom>nexus=

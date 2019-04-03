@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 14:56:35 CEST 2019
+plexus-io-3.0.1.jar>nexus=
+plexus-io-3.0.1.pom>nexus=
+plexus-io-3.0.1.jar>central=
+plexus-io-3.0.1.pom>central=

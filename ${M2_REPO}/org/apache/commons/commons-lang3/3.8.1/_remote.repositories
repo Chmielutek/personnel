@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 14:56:35 CEST 2019
+commons-lang3-3.8.1.jar>central=
+commons-lang3-3.8.1.pom>nexus=
+commons-lang3-3.8.1.jar>nexus=
+commons-lang3-3.8.1.pom>central=

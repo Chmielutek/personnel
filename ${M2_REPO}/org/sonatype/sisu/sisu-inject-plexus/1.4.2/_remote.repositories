@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 14:42:52 CEST 2019
+sisu-inject-plexus-1.4.2.jar>central=
+sisu-inject-plexus-1.4.2.pom>central=
+sisu-inject-plexus-1.4.2.pom>nexus=
+sisu-inject-plexus-1.4.2.jar>nexus=

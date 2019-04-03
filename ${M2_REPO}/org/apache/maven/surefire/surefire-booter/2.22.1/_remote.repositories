@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 14:43:01 CEST 2019
+surefire-booter-2.22.1.jar>central=
+surefire-booter-2.22.1.jar>nexus=
+surefire-booter-2.22.1.pom>nexus=
+surefire-booter-2.22.1.pom>central=

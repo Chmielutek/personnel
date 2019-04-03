@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 14:56:35 CEST 2019
+asm-util-7.0-beta.jar>central=
+asm-util-7.0-beta.pom>central=
+asm-util-7.0-beta.jar>nexus=
+asm-util-7.0-beta.pom>nexus=

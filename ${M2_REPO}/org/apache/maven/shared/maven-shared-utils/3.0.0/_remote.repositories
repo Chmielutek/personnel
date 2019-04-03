@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 14:42:52 CEST 2019
+maven-shared-utils-3.0.0.jar>nexus=
+maven-shared-utils-3.0.0.pom>nexus=
+maven-shared-utils-3.0.0.pom>central=
+maven-shared-utils-3.0.0.jar>central=

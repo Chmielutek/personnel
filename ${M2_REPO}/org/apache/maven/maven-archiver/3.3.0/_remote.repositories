@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 14:56:07 CEST 2019
+maven-archiver-3.3.0.jar>nexus=
+maven-archiver-3.3.0.jar>central=
+maven-archiver-3.3.0.pom>central=
+maven-archiver-3.3.0.pom>nexus=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 01 14:42:45 CEST 2019
+javax.transaction-api-1.3.jar>central=
+javax.transaction-api-1.3.pom>central=
+javax.transaction-api-1.3.jar>nexus=
+javax.transaction-api-1.3.pom>nexus=
